@@ -5,6 +5,6 @@
 			    https://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.allaymc</groupId>
-    <artifactId>JeGenerator-Binary</artifactId>
-    <version>1.20.2-R0.1-SNAPSHOT</version>
+    <artifactId>JEGeneratorBinary</artifactId>
+    <version>1.20.2-R0.2-SNAPSHOT</version>
 </project>
